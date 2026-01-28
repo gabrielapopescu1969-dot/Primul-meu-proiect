@@ -1,2 +1,2 @@
 # Primul-meu-proiect
-Primul meu repository
+## voi invata bioinformatica 
